@@ -33,3 +33,6 @@ And check out the following files:
 Visit https://playwright.dev/docs/intro for more information. ✨
 
 Happy hacking! 🎭
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
