@@ -12,6 +12,9 @@ Inside that directory, you can run several commands:
   npx playwright test --project=chromium
     Runs the tests only on Desktop Chrome.
 
+  npx playwright test --headed --project=chromium
+    Runs the tests only on Desktop Chrome.
+
   npx playwright test example
     Runs the tests in a specific file.
 
