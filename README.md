@@ -39,3 +39,6 @@ Happy hacking! 🎭
 
   git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
+
+  https://playwright.dev/docs/locators
+https://playwright.dev/docs/api/class-locatorassertions#locator-assertions-to-have-text
