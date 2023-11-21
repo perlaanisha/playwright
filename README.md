@@ -42,3 +42,7 @@ Happy hacking! 🎭
 
   https://playwright.dev/docs/locators
 https://playwright.dev/docs/api/class-locatorassertions#locator-assertions-to-have-text
+
+https://playwright.dev/docs/locators#lists
+
+https://playwright.dev/docs/pom
